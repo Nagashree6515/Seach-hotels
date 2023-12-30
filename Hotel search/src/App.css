@@ -1,0 +1,41 @@
+.body{
+  margin-left: 35%;
+  align-items: center;
+  border: 30px solid rgba(128, 128, 128, 0.171);
+  margin-right: 35%;
+  height:500px;
+  overflow-y: scroll;
+}
+
+.card{
+padding-left: 10%;
+padding-right: 10%;
+}
+.image{
+  align-items: center;
+  width:100%;
+  border-radius: 10px;
+}
+.breakfast{
+  color: rgb(93, 165, 165);
+}
+.input{
+  padding: 10px;
+  width:55%;
+  margin:10px;
+  margin-left: 30px;
+  border-radius: 10px;
+  border: 1px solid rgb(240, 237, 237);
+}
+.price{
+  width:50px;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 3px;
+  margin-left: 30px;
+  border: 1px solid rgb(240, 237, 237);
+  cursor: pointer;
+}
+.search{
+  padding:5px;
+}
